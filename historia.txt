@@ -4,8 +4,14 @@ freddy vega 32 y nacido en colombia
 
 Mañana nos enfocaremos en su vida laboral
 
+<<<<<<< HEAD
 master 1
 
 master 2
 
 master 3
+=======
+experimento 1
+
+master 1
+>>>>>>> 2165d49 (experimento 1)
